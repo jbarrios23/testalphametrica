@@ -10,4 +10,10 @@
     <color name="bigText">#707070</color>
     <color name="smallText">#B7B7B7</color>
     <color name="buttonColor">#3b286d</color>
+    <color name="textRegisterColor">#0A0A0A</color>
+    <color name="titleColor">#707070</color>
+    <color name="titleColorHint">#B7B7B7</color>
+    <color name="checkBox">#3B286D</color>
+
+
 </resources>
