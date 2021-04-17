@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestAlphametrica</string>
+    <string name="finance">Stay on the top of your finance</string>
+    <string name="textLorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam </string>
+    <string name="textButton">가입하기</string>
+    <string name="textLink">로그인</string>
+
 </resources>
