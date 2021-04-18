@@ -13,8 +13,6 @@ public class MainActivity extends AppCompatActivity {
     public static String CLASS_TAG=MainActivity.class.getSimpleName();
     public Button sign_up;
     public TextView login;
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
