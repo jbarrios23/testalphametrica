@@ -24,5 +24,9 @@
     <string name="buttonRegister">가입하기</string>
     <string name="linkRegister">이미 계정이 있으신가요?  로그인</string>
 
+    <string name="loginF">비밀번호 찾기</string>
+    <string name="loginButton">로그인</string>
+    <string name="loginLink">계정이 없으신가요?   가입하기</string>
+
 
 </resources>

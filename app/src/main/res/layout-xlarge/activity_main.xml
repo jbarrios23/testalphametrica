@@ -53,7 +53,7 @@
         android:layout_marginRight="67dp"
         android:text="@string/finance"
         android:textColor="@color/bigText"
-        android:textSize="23dp"
+        android:textSize="@dimen/textTitleXLarge"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2">
@@ -71,7 +71,7 @@
         android:layout_marginRight="104dp"
         android:text="@string/textLorem"
         android:textColor="@color/smallText"
-        android:textSize="14sp"
+        android:textSize="@dimen/textLarge"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView">
@@ -89,6 +89,7 @@
         android:layout_marginRight="63dp"
         android:background="@color/buttonColor"
         android:text="@string/textButton"
+        android:textSize="@dimen/textTitleXLarge"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2">
@@ -105,6 +106,7 @@
         android:layout_marginRight="184dp"
         android:layout_marginBottom="69dp"
         android:text="@string/textLink"
+        android:textSize="@dimen/textTitleXLarge"
         android:textColor="@color/buttonColor"
         android:id="@+id/text_view_login"
         app:layout_constraintBottom_toBottomOf="parent"
