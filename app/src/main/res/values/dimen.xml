@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textNormal">15sp</dimen>
+    <dimen name="textLarge">19sp</dimen>
+    <dimen name="textXLarge">26sp</dimen>
+
+    <dimen name="textTitle">23sp</dimen>
+    <dimen name="textTitleLarge">28sp</dimen>
+    <dimen name="textTitleXLarge">33sp</dimen>
+
+</resources>
